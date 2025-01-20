@@ -1,0 +1,6 @@
+streamlit
+transformers
+xgboost
+numpy
+tensorflow
+pickle5
