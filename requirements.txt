@@ -1,4 +1,0 @@
-streamlit==1.25.0
-transformers==4.37.2
-tensorflow==2.10.1
-xgboost==1.7.1
